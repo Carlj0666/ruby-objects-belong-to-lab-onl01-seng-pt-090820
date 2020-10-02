@@ -7,4 +7,4 @@ class Artist
   
 end
 
-beyonce = artist.New
+artist  = artist.New
